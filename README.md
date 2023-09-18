@@ -11,14 +11,14 @@ Docker container -->
 ![docker-container](https://github.com/priyanka-1994/DocNex-Assesment/assets/71969309/af6f5260-ade7-4193-902f-7ac40a4091dc)
 
 
-Jenkins pipleine whcih is cloning git repo -- 
+Jenkins pipleine whcih is cloning git repo -- and this is the test report of html in last line.
 ![cloning git](https://github.com/priyanka-1994/DocNex-Assesment/assets/71969309/9198fda0-cd02-4349-aed1-79d9d250f8ca)
 
 
 ![Jenkins](https://github.com/priyanka-1994/DocNex-Assesment/assets/71969309/9d6b82e8-da11-4809-a54a-c5411357d87a)
 
 
-this is the test report of html..
+.
 ![Html test report](https://github.com/priyanka-1994/DocNex-Assesment/assets/71969309/3acf9a45-0efe-4ec5-948e-1774f764c570)
 
 Now,Monitoring logs.So I have used here AWS cloudwatch.and I have created 2 alarms.one for logs for oen for alarm with sns topic.
