@@ -1,6 +1,12 @@
 # DocNex-Assesment
 
 I have uploaded here some scrrenshot of assesment.
+So first I build the Dockerfile in Jenkins pipeline and then container.
+For continuous deployment,I have used Webhook-URL.
+then comes to the Monitoring so i used AWS Cloudwatch.
+
+this is the website -->
+![Screenshot 2023-09-18 155319](https://github.com/priyanka-1994/DocNex-Assesment/assets/71969309/218aaa8b-d994-4b20-bdf3-4e239c4f8919)
 
 This the docker image which is build by Dockerfile.
 
@@ -28,4 +34,6 @@ Now,Monitoring logs.So I have used here AWS cloudwatch.and I have created 2 alar
 
 
 
+
+![Screenshot 2023-09-18 152612](https://github.com/priyanka-1994/DocNex-Assesment/assets/71969309/14101136-08e3-4151-b7e0-961f49281100)
 
